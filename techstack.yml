@@ -1,0 +1,44 @@
+repo_name: vladdou/awesome-dotnet-core
+report_id: 4a21241ed30fa7aebbf5175dab51b8a7
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-26T05:31:36+00:00'
+requested_by: brthor
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/vladdou/awesome-dotnet-core
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/vladdou/awesome-dotnet-core
+  detection_source: Repo Metadata
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/vladdou/awesome-dotnet-core/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Thang Chung
+  last_updated_on: 2018-03-06 08:58:33.000000000 Z
